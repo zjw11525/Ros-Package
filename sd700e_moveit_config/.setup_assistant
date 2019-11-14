@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: sd700e_grip
+    relative_path: urdf/sd700e_grip.urdf
+    xacro_args: "--inorder "
+  SRDF:
+    relative_path: config/sd700e_grip.srdf
+  CONFIG:
+    author_name: zhong junwen
+    author_email: zjw15170153579@live.com
+    generated_timestamp: 1564060595

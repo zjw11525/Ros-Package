@@ -1,0 +1,6 @@
+<launch>
+
+	<node pkg="sd700e_control" name="sd700e_control" type="sd700e_control" output="screen"> <!--launch-prefix="xterm−e"-->
+	</node>
+
+</launch>
